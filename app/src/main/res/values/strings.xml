@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent Avec Filtres</string>
+    <string name="filtre_activite">Broadcast et filtre activité</string>
+    <string name="filtre_categorie">https://e-formation.tn</string>
+</resources>
